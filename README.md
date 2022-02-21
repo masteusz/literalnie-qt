@@ -1,1 +1,1 @@
-# literalnie-qt
+# Literalnie Solver
