@@ -2,7 +2,7 @@ from kivy.app import App
 from kivy.uix.widget import Widget
 
 class PongBall(Widget):
-
+    pass
 
 class PongGame(Widget):
     pass
